@@ -1,4 +1,4 @@
-# SupplierDataAggregate
+# Hi, guys
 I\`m new at Python and coding, new trying to use Python to clear my company supplier\`s data and aggregate them. 
 Guys my account is luckily be found, plz tell me where I can improve my code, thx anyway
 
